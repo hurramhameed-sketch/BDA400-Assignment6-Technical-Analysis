@@ -1,0 +1,20 @@
+BDA400 ASSIGNMENT 6 SUBMISSION CHECKLIST
+
+Student: Hurram Hameed
+
+Included:
+[OK] app.R
+[OK] Cover page DOCX
+[OK] README.md
+[OK] Submission checklist
+
+Before LMS submission:
+[ ] Create/push a public GitHub repository.
+[ ] Upload app.R and README.md to the repository.
+[ ] Test the app in RStudio with internet access.
+[ ] Paste the public GitHub repository URL into the cover page.
+[ ] Save/submit the cover page using the college naming convention:
+    HurramHameed_BDA400_A06
+
+Note: The dashboard retrieves live Yahoo Finance data when run, so internet
+access is required for the data download.
